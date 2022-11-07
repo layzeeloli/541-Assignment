@@ -1,0 +1,6 @@
+first_name=input("enter your first name: ")
+surname=input("enter your surname: ")
+age=input("enter your age: ")
+dept=input("enter your department: ")
+fullname=(first_name+" "+surname)
+print("My name is",fullname+"."+"I am",age,"years old"+"."+" My department is",dept)
